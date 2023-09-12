@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">MyComposeApp</string>
+
+    <string name="intro_2">The one-stop to find amazing drink mixes for any occasion.</string>
+
 </resources>
